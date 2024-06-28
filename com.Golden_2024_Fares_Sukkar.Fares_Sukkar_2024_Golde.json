@@ -5,7 +5,7 @@
     "showHideInterstitial": 0,
     "showHomInterstitial": 1,
     "savedVersion": 1,
-    "version": 2,  // هذا هو رقم الإصدار الجديد
+    "version": 3, 
     "clicks": 1,
     "show_update_cancel": 1,
     "admob_id": "ca-app-pub-3940256099942544~334751171300",
