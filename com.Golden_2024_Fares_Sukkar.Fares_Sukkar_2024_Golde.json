@@ -1,9 +1,10 @@
 {
     "show_hide_splash_open_app": 1,
     "show_hide_banner": 1,
-    "show_hide_banner_loadBackupAd":1,
+    "show_hide_banner_loadBackupAd": 1,
     "showHideInterstitial": 1,
-        "versionUpdate": 2,
+    "version": 2,
+    "versionUpdate": 2,
     "clicks": 5,
     "show_update_cancel": 1,
     "admob_id": "ca-app-pub-9807820378544612~4906740842",
@@ -13,5 +14,4 @@
     "backupImageUrl": "https://youssef-apps.com/images/124.png",
     "update_url": "https://play.google.com/store/apps/details?id=com.Golden_2024_Festivals.Mahraganat_2024_Golde&hl=ar",
     "banner_url": "https://youssef-apps.com/"
-    
 }
