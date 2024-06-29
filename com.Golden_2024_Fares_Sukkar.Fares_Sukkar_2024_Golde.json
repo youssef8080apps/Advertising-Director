@@ -1,18 +1,20 @@
 {
     "show_hide_splash_open_app": 1,
-    "show_hide_banner": 1,
+    "show_hide_banner": 0,
     "show_hide_banner_loadBackupAd":1,
     "showHideInterstitial": 1,
-    "versionUpdate": 3,
-    "version": 10, 
-    "clicks": 5,
+    "showHomInterstitial": 1,
+        "versionUpdate": 3,
+    "version": 30,
+    "clicks": 3,
     "show_update_cancel": 1,
     "admob_id": "ca-app-pub-9807820378544612~4906740842",
     "banner": "/21849154601,23169549745/Ad.Plus-APP-Banner",
     "interstitial": "/21849154601,23169549745/Ad.Plus-APP-Interstitial",
+        "interstitialHom": "/21849154601,23169549745/Ad.Plus-APP-Interstitial",
     "open_app": "/21849154601,23169549745/Ad.Plus-APP-APPOpen",
-    "backupImageUrl": "https://youssef-apps.com/images/channels4_banner.jpg",
+    "backupImageUrl": "https://youssef-apps.com/images/124.png",
     "update_url": "https://youssef-apps.com/",
-    "banner_url": "https://youssef.com/"
+    "banner_url": "https://youssef-apps.com/"
     
 }
