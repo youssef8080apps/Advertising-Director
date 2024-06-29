@@ -1,9 +1,9 @@
 {
     "show_hide_splash_open_app": 0,
-    "show_hide_banner": 1,
+    "show_hide_banner": 0,
     "show_hide_banner_loadBackupAd":0,
-    "showHideInterstitial": 1,
-    "versionUpdate": 2,
+    "showHideInterstitial": 0,
+    "versionUpdate": 3,
     "version": 3, 
     "clicks": 5,
     "show_update_cancel": 1,
