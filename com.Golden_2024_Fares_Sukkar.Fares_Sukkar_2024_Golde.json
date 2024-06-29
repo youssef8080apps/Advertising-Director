@@ -3,15 +3,15 @@
     "show_hide_banner": 1,
     "show_hide_banner_loadBackupAd":0,
     "showHideInterstitial": 1,
-    "versionUpdate": 3,
-    "version": 7, 
+    "versionUpdate": 2,
+    "version": 2, 
     "clicks": 5,
     "show_update_cancel": 1,
     "admob_id": "ca-app-pub-9807820378544612~4906740842",
     "banner": "/21849154601,23169549745/Ad.Plus-APP-Banner",
     "interstitial": "/21849154601,23169549745/Ad.Plus-APP-Interstitial",
     "open_app": "/21849154601,23169549745/Ad.Plus-APP-APPOpen",
-    "backupImageUrl": "https://youssef-apps.com/images/channels_banner.jpg",
+    "backupImageUrl": "https://youssef-apps.com/images/channels4_banner.jpg",
     "update_url": "https://youssef-apps.com/",
     "banner_url": "https://youssef.com/"
     
