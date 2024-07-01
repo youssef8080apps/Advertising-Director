@@ -1,10 +1,10 @@
 {
     "show_hide_splash_open_app": 1,
     "show_hide_banner": 1,
-    "show_hide_banner_loadBackupAd": 1,
+    "show_hide_banner_loadBackupAd": 0,
     "showHideInterstitial": 1,
-    "version": 2,
-    "versionUpdate": 2,
+    "version": 0,
+    "versionUpdate": 0,
     "clicks": 5,
     "show_update_cancel": 1,
     "admob_id": "ca-app-pub-9807820378544612~4906740842",
